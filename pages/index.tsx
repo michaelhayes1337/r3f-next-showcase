@@ -10,12 +10,6 @@ const Home: NextPage = () => {
         <title>Home</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      {/* <Image
-        src="/reactplusthree.png"
-        width={1100}
-        height={550}
-        layout="responsive"
-      ></Image> */}
       <Image
         src="/banner.webp"
         width={1000}

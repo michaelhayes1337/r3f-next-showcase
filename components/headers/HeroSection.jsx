@@ -14,15 +14,17 @@ export default function HeroSection() {
               target="_blank"
               className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700"
             >
-              Get started
+              threejs
             </a>
           </div>
           <div className="ml-3 inline-flex rounded-md shadow">
-            <Link href="/showcase">
-              <a className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-white hover:bg-indigo-50">
-                Showcase
-              </a>
-            </Link>
+            <a
+              href="https://docs.pmnd.rs/react-three-fiber/getting-started/examples"
+              target="_blank"
+              className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-white hover:bg-indigo-50"
+            >
+              R3F
+            </a>
           </div>
         </div>
       </div>

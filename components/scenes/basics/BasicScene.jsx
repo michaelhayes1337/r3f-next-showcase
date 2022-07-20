@@ -5,7 +5,6 @@ import Box from "./Box";
 import LightBulb from "./LightBulb";
 import OrbitControls from "./OrbitCOntrols";
 import Draggable from "./Draggable";
-import { useThree } from "@react-three/fiber";
 export default function BasicScene() {
   return (
     <div className={css.scene}>
