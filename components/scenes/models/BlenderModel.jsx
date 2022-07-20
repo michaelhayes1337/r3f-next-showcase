@@ -3,7 +3,7 @@ import { Canvas } from "@react-three/fiber";
 import Kick from "./Kick.jsx";
 import css from "./BlenderModel.module.css";
 
-import OrbitControls from "../basics/OrbitCOntrols";
+import OrbitControls from "../basics/OrbitControls";
 
 export default function BlenderModel() {
   return (

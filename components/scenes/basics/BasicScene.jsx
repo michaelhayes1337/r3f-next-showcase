@@ -3,7 +3,7 @@ import { Canvas } from "@react-three/fiber";
 import Floor from "./Floor";
 import Box from "./Box";
 import LightBulb from "./LightBulb";
-import OrbitControls from "./OrbitCOntrols";
+import OrbitControls from "./OrbitControls";
 import Draggable from "./Draggable";
 export default function BasicScene() {
   return (
