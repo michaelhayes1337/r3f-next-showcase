@@ -27,6 +27,11 @@ export default function Navbar() {
       href: "/model",
       current: router.asPath == "/model" ? true : false,
     },
+    {
+      name: "Physics",
+      href: "/physics",
+      current: router.asPath == "/physics" ? true : false,
+    },
   ];
   return (
     <Disclosure as="nav" className="bg-gray-800">

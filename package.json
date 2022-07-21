@@ -9,6 +9,8 @@
   "dependencies": {
     "@headlessui/react": "^1.6.6",
     "@heroicons/react": "^1.0.6",
+    "@react-spring/three": "^9.5.0",
+    "@react-three/cannon": "^6.3.0",
     "@react-three/drei": "^9.17.1",
     "@react-three/fiber": "^8.2.0",
     "next": "latest",
